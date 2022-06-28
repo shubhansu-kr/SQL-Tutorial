@@ -38,3 +38,14 @@
     FROM employee 
     WHERE employee.salary > 100000;
 */
+
+--  BASIC DATA TYPES IN SQL 
+
+-- INT              -- WHOLE NUMBERS 
+-- DECIMAL(M,N)     -- DECIMAL VALUES  (lENGTH M- DECIMAL DIGIT N)
+-- VARCHAR(L)       -- STRING OF TEXT  (LENGTH - L)
+-- BLOB             -- BINARY LARGE OBJECT 
+-- DATE             -- 'YYYY-MM-DD'
+-- TIMESTAMP        -- 'YYYY-MM-DD HH:MM:SS' USED FOR RECORDING 
+
+
