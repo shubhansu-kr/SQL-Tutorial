@@ -29,8 +29,8 @@ SELECT first_name AS forename, employee.last_name AS surname
 FROM employee;
 
 -- Find out all the different genders
--- SELECT DISCINCT sex
--- FROM employee;
+SELECT DISTINCT sex
+FROM employee;
 
 -- Find all male employees
 SELECT *
