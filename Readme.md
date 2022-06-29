@@ -16,4 +16,5 @@ All the queries are saved in sql files in [Tutorial](./Tutorial/) and [CompanyIn
 
 [Complete](./Complete.sql) contains all the queries made during the course.
 
-Start Date: 27th June  
+Start Date: 27th June 2022
+End Date: 29th June 2022.
